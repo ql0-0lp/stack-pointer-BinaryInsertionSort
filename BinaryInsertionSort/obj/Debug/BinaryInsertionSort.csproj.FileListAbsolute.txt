@@ -1,0 +1,7 @@
+C:\Users\av-lo\source\repos\BinaryInsertionSort\BinaryInsertionSort\bin\Debug\BinaryInsertionSort.exe.config
+C:\Users\av-lo\source\repos\BinaryInsertionSort\BinaryInsertionSort\bin\Debug\BinaryInsertionSort.exe
+C:\Users\av-lo\source\repos\BinaryInsertionSort\BinaryInsertionSort\bin\Debug\BinaryInsertionSort.pdb
+C:\Users\av-lo\source\repos\BinaryInsertionSort\BinaryInsertionSort\obj\Debug\BinaryInsertionSort.csproj.AssemblyReference.cache
+C:\Users\av-lo\source\repos\BinaryInsertionSort\BinaryInsertionSort\obj\Debug\BinaryInsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\av-lo\source\repos\BinaryInsertionSort\BinaryInsertionSort\obj\Debug\BinaryInsertionSort.exe
+C:\Users\av-lo\source\repos\BinaryInsertionSort\BinaryInsertionSort\obj\Debug\BinaryInsertionSort.pdb
